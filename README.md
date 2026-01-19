@@ -41,8 +41,8 @@ text## 安装与运行
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/demanlover9/scrapy-dangdang-books.git
-cd scrapy-dangdang-books
+git clone https://github.com/demanlover9/scrapy_DD.git
+cd scrapy_DD
 2. 创建虚拟环境 & 安装依赖
 Bash# Windows
 python -m venv venv
